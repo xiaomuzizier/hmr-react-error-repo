@@ -152,7 +152,6 @@
 		"stylelint-config-standard": "^20.0.0",
 		"thread-loader": "^3.0.1",
 		"ts-jest": "^26.5.2",
-		"vite": "^2.1.5",
 		"vite-plugin-imp": "^2.0.4",
 		"vite-plugin-react-svg": "^0.2.0",
 		"webpack-bundle-analyzer": "^4.2.0"

@@ -1,0 +1,17 @@
+dev/
+dist/
+node_modules/
+.vscode/
+.cache/
+autotest/
+bak/
+grunt/
+hooks/
+new_build/
+node/
+scripts/
+test/
+src/libs/
+tools/
+config/
+**/assets/**
