@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>图标/小/反馈入口</title>
+    <g id="图标/小/反馈入口" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="形状结合" fill="#1767F9" fill-rule="nonzero" x="0" y="0" width="20" height="20" rx="3"></rect>
+        <path d="M5,4.5 L15,4.5 C16.1045695,4.5 17,5.3954305 17,6.5 L17,12.9347826 C17,14.0393521 16.1045695,14.9347826 15,14.9347826 L12,14.9347826 L12,14.9347826 L10,16.5 L8,14.9347826 L5,14.9347826 C3.8954305,14.9347826 3,14.0393521 3,12.9347826 L3,6.5 C3,5.3954305 3.8954305,4.5 5,4.5 Z" id="矩形" stroke="#FFFFFF" stroke-width="1.5" stroke-linejoin="round"></path>
+        <rect id="矩形" fill="#FFFFFF" x="6" y="7.5" width="8" height="1.5" rx="0.75"></rect>
+        <rect id="矩形备份" fill="#FFFFFF" x="6" y="10.5" width="4" height="1.5" rx="0.75"></rect>
+    </g>
+</svg>

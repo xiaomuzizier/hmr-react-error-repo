@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="10px" viewBox="0 0 9 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>图标/下拉</title>
+    <desc>Created with Sketch.</desc>
+    <g id="控件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="侧导航/一级入口" transform="translate(-22.000000, -20.000000)">
+            <g id="编组-3">
+                <g id="图标/下拉" transform="translate(27.000000, 25.000000) rotate(-90.000000) translate(-27.000000, -25.000000) translate(20.000000, 18.000000)">
+                    <g id="编组-12">
+                        <rect id="矩形" x="0" y="0" width="14" height="14"></rect>
+                        <path d="M7.66564024,3.79846035 L11.7708266,9.95623984 C12.0159085,10.3238628 11.9165694,10.8205583 11.5489465,11.0656402 C11.4175325,11.1532496 11.2631263,11.2 11.1051863,11.2 L2.89481367,11.2 C2.45298587,11.2 2.09481367,10.8418278 2.09481367,10.4 C2.09481367,10.24206 2.1415641,10.0876539 2.22917344,9.95623984 L6.33435976,3.79846035 C6.57944173,3.4308374 7.07613721,3.33149831 7.44376016,3.57658027 C7.53164199,3.63516816 7.60705235,3.71057852 7.66564024,3.79846035 Z" id="三角形备份" fill="#FFFFFF" transform="translate(7.000000, 7.000000) rotate(-180.000000) translate(-7.000000, -7.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
