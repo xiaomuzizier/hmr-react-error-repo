@@ -1,0 +1,41 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "lib": ["dom", "dom.iterable", "esnext"],
+        "allowJs": true,
+        "skipLibCheck": true,
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "strict": true,
+        "forceConsistentCasingInFileNames": true,
+        "module": "esnext",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "types": ["vite/client","node"],
+        "noImplicitAny": false,
+        "noEmit": true,
+        "jsx": "react",
+        "baseUrl": "./src",
+        // path 不生效的时候，尝试 reload ts > cmd+shift+p Restart TS server
+        "paths": {
+            "@src": [""],
+            "@src/*": ["./*"],
+            "@utils": ["utils"],
+            "@utils/*": ["utils/*"],
+            "@modules": ["modules"],
+            "@modules/*": ["modules/*"],
+            "@components": ["components"],
+            "@components/*": ["components/*"],
+            "@containers": ["containers"],
+            "@containers/*": ["containers/*"],
+            "@constants": ["constants"],
+            "@constants/*": ["constants/*"],
+            "@assets": ["assets"],
+            "@assets/*": ["assets/*"],
+            "@reducers": ["reducers"],
+            "@reducers/*": ["reducers/*"]
+        }
+    },
+    "include": ["src", "assets.d.ts", "**/*.test.ts"]
+}
